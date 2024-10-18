@@ -1,0 +1,16 @@
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    font-weight: 300;
+}
+
+body {
+    background: #FF5F6D ;
+    background: -webkit-linear-gradient(to right, #FFC371, #FF5F6D) ;
+    background: linear-gradient(to right, #004e92, #FF5F6D);
+
+    color: white;
+}
+#show:hover {
+    opacity: .9;
+}
